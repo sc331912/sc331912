@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am SNEHA CHAND
 
 <!# 💫 About Me:
 🚀 Building • Learning • Growing in Tech  <br>👯 Open to collaborations on web & creative tech projects  <br>🌱 Currently learning full-stack development & DSA &modern frameworks <br>💬 Ask me about coding, projects & tech journey  <br>⚡ Fun fact: Debugging is my daily workout 🧠💻<br>
@@ -20,6 +20,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sc331912&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=sc331912&icon=0&color=8)](https://visitcount.itsvg.in)
 
@@ -28,7 +31,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on AI dental voice assisstant
-- 📫 How to reach me: through my email XD
+- 📫 How to reach me: through my email snehachand1912@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I fix one bug, create two more
 -->
